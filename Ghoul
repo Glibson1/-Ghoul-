@@ -14,8 +14,8 @@ if game.PlaceId == 17639412521 then
             },
         },
     })
-elseif game.PlaceId == 1499872953 then
-    loadstring(game:HttpGet(""))()
+elseif game.PlaceId == 17336513489 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Glibson1/-Ghoul-/main/RNGChar"))()
     Rayfield:Notify({
         Title = "Loaded /Ghoul™",
         Content = "/Ghoul™ has been loaded for this place!",
