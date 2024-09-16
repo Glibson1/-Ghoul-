@@ -1,5 +1,0 @@
-if game.PlaceId == 17639412521 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Glibson1/-Ghoul-/main/REXL"))()
-elseif game.PlaceId == 17336513489 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Glibson1/-Ghoul-/main/RNGChar"))()
-end
